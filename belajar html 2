@@ -17,4 +17,7 @@ Contoh: <p>, <a>, <body>, <head>, dan sebagainya.
 Tag selalu ditulis berpasangan.
 Ada tag pembuka dan ada tag penutupnya. 
 Namun, ada juga beberapa tag yang tidak memiliki pasangan penutup. 
-Tag penutup ditulis dengan menambahkan garis miring (/) di depan nama tag.
+Tag penutup ditulis dengan menambahkan garis miring (/) di depan nama ta
+
+Setiap tag memiliki fungsi masing-masing. Ada yang digunakan untuk membuat judul, membuat link, membuat paragraf, heading, dan lain-lain.
+
