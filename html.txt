@@ -1,1 +1,6 @@
 html (HyperText Markup Language) merupakan bahasa markup yang di gunakan untuk membuat suatu komponen utama dalam pembuatan struktur website
+● HTML mendeskripsikan struktur dari isi konten halaman Web
+● Selain HTML, terdapat hal lain untuk mendeskripsikan sebuah halaman web, seperti untuk gaya 
+tampilan halaman web menggunakan CSS atau interaksi halaman web menggunakan JavaScript
+● HTML sendiri sebenarnya hanyalah kumpulan kode yang berisikan informasi halaman web
+● Kode HTML akan dibaca oleh Web Browser untuk ditampilkan secara visual
